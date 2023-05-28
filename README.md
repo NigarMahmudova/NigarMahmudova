@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nigar mahmudova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigar mahmudova" height="30" width="40" /></a>
-<a href="https://instagram.com/nigar.makhmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nigar.makhmud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nigar-mahmudova-bb2b9125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nigar-mahmudova-bb2b9125b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nigarmahmudova&show_icons=true&locale=en&layout=compact" alt="nigarmahmudova" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nigarmahmudova&show_icons=true&locale=en" alt="nigarmahmudova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nigarmahmudova&" alt="nigarmahmudova" /></p>
