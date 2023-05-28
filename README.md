@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nigar Mahmudova</h1>
 <h3 align="center">A software developer from Azerbaijan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nigarmahmudova" alt="nigarmahmudova" /></a> </p>
-
 - 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **nigar.makhmud@outlook.com**
